@@ -1,0 +1,28 @@
+version: '3'
+services:
+  couchdb_container:
+    image: couchdb:latest
+    ports:
+      - "8080:5984"
+    environment:
+      COUCHDB_USER: admin
+      COUCHDB_PASSWORD: admin
+    volumes:
+      - ./dbdata:/opt/couchdb/data
+    
+  backend_container:
+    build: ./backend_container
+    ports:
+      - "3000:3000"
+    depends_on:
+      - couchdb_container
+  
+  frontend_container:
+    build: ./frontend_container
+    ports:
+      - "3001:5173"
+    depends_on:
+      - backend_container
+
+volumes:
+  dbdata:
