@@ -20,7 +20,7 @@ services:
   frontend_container:
     build: ./frontend_container
     ports:
-      - "3001:5173"
+      - "3001:8080"
     depends_on:
       - backend_container
 
