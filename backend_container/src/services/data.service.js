@@ -15,8 +15,9 @@ class DataService {
 
     async getAll() {
         try {
-            const result = await db.allDocs({ include_docs: true });
-            const data = result.rows.map(row => row.doc);
+            // const result = await db.allDocs({ include_docs: true });
+            // const data = result.rows.map(row => row.doc);
+            const data = [1, 2, 3, 4, 5, 6];
             return data;
         } catch (error) {
             throw new Error("Error fetching all items: " + error);
