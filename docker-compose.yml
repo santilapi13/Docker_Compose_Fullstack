@@ -3,7 +3,7 @@ services:
   couchdb_container:
     image: couchdb:latest
     ports:
-      - "8080:5984"
+      - "5984:5984"
     environment:
       COUCHDB_USER: admin
       COUCHDB_PASSWORD: admin

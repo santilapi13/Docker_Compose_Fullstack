@@ -1,5 +1,0 @@
-{"level":"error","message":"Error loading random data: Error creating item: FetchError: request to http://localhost:5984/data/ failed, reason: connect ECONNREFUSED ::1:5984","timestamp":"2024-05-23T19:10:38.319Z"}
-{"level":"error","message":"Error loading random data: Error creating item: FetchError: request to http://localhost:5984/data/ failed, reason: connect ECONNREFUSED ::1:5984","timestamp":"2024-05-23T19:10:43.301Z"}
-{"level":"error","message":"Error loading random data: Error creating item: FetchError: request to http://localhost:5984/data/ failed, reason: connect ECONNREFUSED ::1:5984","timestamp":"2024-05-23T19:42:08.449Z"}
-{"level":"error","message":"Error loading random data: Error creating item: FetchError: request to http://localhost:5984/data/ failed, reason: connect ECONNREFUSED ::1:5984","timestamp":"2024-05-23T19:42:13.426Z"}
-{"level":"error","message":"Error loading random data: Error creating item: FetchError: request to http://localhost:5984/data/ failed, reason: connect ECONNREFUSED ::1:5984","timestamp":"2024-05-23T19:42:18.436Z"}
