@@ -1,0 +1,423 @@
+
+[
+    {
+        "nombre": "Frodo Bolson",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Portador del Anillo"
+    },
+    {
+        "nombre": "Aragorn",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Combate con espada"
+    },
+    {
+        "nombre": "Gandalf",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Istari"
+    },
+    {
+        "nombre": "Legolas",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Arquero"
+    },
+    {
+        "nombre": "Gimli",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Combate con hacha"
+    },
+    {
+        "nombre": "Boromir",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Combate con espada"
+    },
+    {
+        "nombre": "Samsagaz Gamgee",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": true,
+        "habilidad": "Valentia"
+    },
+    {
+        "nombre": "Saruman",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": false,
+        "habilidad": "Magia"
+    },
+    {
+        "nombre": "Gollum",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": false,
+        "habilidad": "Sigilo"
+    },
+    {
+        "nombre": "Sauron",
+        "pelicula": "El Señor de los Anillos",
+        "bueno": false,
+        "habilidad": "Dominación"
+    },
+    {
+        "nombre": "Jon Snow",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Combate con espada"
+    },
+    {
+        "nombre": "Daenerys Targaryen",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Control de dragones"
+    },
+    {
+        "nombre": "Tyrion Lannister",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Estrategia política"
+    },
+    {
+        "nombre": "Cersei Lannister",
+        "pelicula": "Game of Thrones",
+        "bueno": false,
+        "habilidad": "Manipulación política"
+    },
+    {
+        "nombre": "Arya Stark",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Asesinato sigiloso"
+    },
+    {
+        "nombre": "Jaime Lannister",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Combate con espada"
+    },
+    {
+        "nombre": "Sansa Stark",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Estrategia política"
+    },
+    {
+        "nombre": "Petyr Baelish",
+        "pelicula": "Game of Thrones",
+        "bueno": false,
+        "habilidad": "Manipulación"
+    },
+    {
+        "nombre": "Brienne de Tarth",
+        "pelicula": "Game of Thrones",
+        "bueno": true,
+        "habilidad": "Combate con espada"
+    },
+    {
+        "nombre": "Ramsay Bolton",
+        "pelicula": "Game of Thrones",
+        "bueno": false,
+        "habilidad": "Tortura"
+    },
+    {
+        "nombre": "Superman",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Superfuerza"
+    },
+    {
+        "nombre": "Batman",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Inteligencia"
+    },
+    {
+        "nombre": "Wonder Woman",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Amazonas"
+    },
+    {
+        "nombre": "Flash",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Velocidad"
+    },
+    {
+        "nombre": "Aquaman",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Submarino"
+    },
+    {
+        "nombre": "Green Lantern",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Anillo"
+    },
+    {
+        "nombre": "Cyborg",
+        "pelicula": "DC",
+        "bueno": true,
+        "habilidad": "Tecnología"
+    },
+    {
+        "nombre": "Santiago Lapiana",
+        "pelicula": "Barbie",
+        "bueno": false,
+        "habilidad": "Canto"
+    },
+    {
+        "nombre": "Wenceslao Ávalos",
+        "pelicula": "Barbie",
+        "bueno": false,
+        "habilidad": "Baile"
+    },
+    {
+        "nombre": "Teo Ramos Kees",
+        "pelicula": "50 sombras de Grey",
+        "bueno": true,
+        "habilidad": "Exploración"
+    },
+    {
+        "nombre": "Lex Luthor",
+        "pelicula": "DC",
+        "bueno": false,
+        "habilidad": "Genio"
+    },
+    {
+        "nombre": "Harley Quinn",
+        "pelicula": "DC",
+        "bueno": false,
+        "habilidad": "Locura"
+    },
+    {
+        "nombre": "Iron Man",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Tecnología avanzada"
+    },
+    {
+        "nombre": "Captain America",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Superfuerza"
+    },
+    {
+        "nombre": "Thor",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Control del rayo"
+    },
+    {
+        "nombre": "Hulk",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Fuerza sobrehumana"
+    },
+    {
+        "nombre": "Black Widow",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Espionaje"
+    },
+    {
+        "nombre": "Doctor Strange",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Magia"
+    },
+    {
+        "nombre": "Spider-Man",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Sentido arácnido"
+    },
+    {
+        "nombre": "Black Panther",
+        "pelicula": "Marvel",
+        "bueno": true,
+        "habilidad": "Agilidad"
+    },
+    {
+        "nombre": "Thanos",
+        "pelicula": "Marvel",
+        "bueno": false,
+        "habilidad": "Fuerza cósmica"
+    },
+    {
+        "nombre": "Loki",
+        "pelicula": "Marvel",
+        "bueno": false,
+        "habilidad": "Ilusión"
+    },
+    {
+        "nombre": "Anakin Skywalker",
+        "pelicula": "Star Wars",
+        "habilidad": "Fuerza",
+        "bueno": true
+    },
+    {
+        "nombre": "Darth Vader",
+        "pelicula": "Star Wars",
+        "habilidad": "Fuerza",
+        "bueno": false
+    },
+    {
+        "nombre": "Harry Potter",
+        "pelicula": "Harry Potter",
+        "habilidad": "Magia",
+        "bueno": true
+    },
+    {
+        "nombre": "Lord Voldemort",
+        "pelicula": "Harry Potter",
+        "habilidad": "Magia oscura",
+        "bueno": false
+    },
+    {
+        "nombre": "Luke Skywalker",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "La Fuerza"
+    },
+    {
+        "nombre": "Leia Organa",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Diplomacia"
+    },
+    {
+        "nombre": "Han Solo",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Pilotaje"
+    },
+    {
+        "nombre": "Obi-Wan Kenobi",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "La Fuerza"
+    },
+    {
+        "nombre": "Yoda",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Sabiduría"
+    },
+    {
+        "nombre": "Palpatine",
+        "pelicula": "Star Wars",
+        "bueno": false,
+        "habilidad": "Fuerza oscura"
+    },
+    {
+        "nombre": "Kylo Ren",
+        "pelicula": "Star Wars",
+        "bueno": false,
+        "habilidad": "Fuerza oscura"
+    },
+    {
+        "nombre": "Rey",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Combate con sable láser"
+    },
+    {
+        "nombre": "Finn",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Combate"
+    },
+    {
+        "nombre": "Poe Dameron",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "Pilotaje"
+    },
+    {
+        "nombre": "Mace Windu",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "La Fuerza"
+    },
+    {
+        "nombre": "Qui-Gon Jinn",
+        "pelicula": "Star Wars",
+        "bueno": true,
+        "habilidad": "La Fuerza"
+    },
+    {
+        "nombre": "Dooku",
+        "pelicula": "Star Wars",
+        "bueno": false,
+        "habilidad": "Fuerza oscura"
+    },
+    {
+        "nombre": "Jabba el Hutt",
+        "pelicula": "Star Wars",
+        "bueno": false,
+        "habilidad": "Crimen"
+    },
+    {
+        "nombre": "Aquiles",
+        "pelicula": "Troya",
+        "bueno": true,
+        "habilidad": "Combate"
+    },
+    {
+        "nombre": "Héctor",
+        "pelicula": "Troya",
+        "bueno": true,
+        "habilidad": "Liderazgo"
+    },
+    {
+        "nombre": "Alejandro Magno",
+        "pelicula": "Alejandro Magno",
+        "bueno": true,
+        "habilidad": "Conquista"
+    },
+    {
+        "nombre": "Julio César",
+        "pelicula": "Julio César",
+        "bueno": true,
+        "habilidad": "Estrategia"
+    },
+    {
+        "nombre": "Cleopatra",
+        "pelicula": "Cleopatra",
+        "bueno": true,
+        "habilidad": "Diplomacia"
+    },
+    {
+        "nombre": "William Wallace",
+        "pelicula": "Corazón Valiente",
+        "bueno": true,
+        "habilidad": "Rebeldía"
+    },
+    {
+        "nombre": "Juana de Arco",
+        "pelicula": "Juana de Arco",
+        "bueno": true,
+        "habilidad": "Fe"
+    },
+    {
+        "nombre": "Napoleón Bonaparte",
+        "pelicula": "Napoleón",
+        "bueno": false,
+        "habilidad": "Tácticas"
+    },
+    {
+        "nombre": "Gengis Kan",
+        "pelicula": "Gengis Kan",
+        "bueno": false,
+        "habilidad": "Conquista"
+    },
+    {
+        "nombre": "Abraham Lincoln",
+        "pelicula": "Lincoln",
+        "bueno": true,
+        "habilidad": "Oratoria"
+    }
+]

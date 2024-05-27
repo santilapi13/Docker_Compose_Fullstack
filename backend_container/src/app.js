@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 app.use(addLogger);
 
-setInterval(utils.loadRandomData, 5000);
+setInterval(utils.loadRandomData, 15000);
 
 app.get('/api/data', async (req, res) => {
     try {
