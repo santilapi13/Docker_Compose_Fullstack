@@ -23,5 +23,11 @@ Docker and Docker Compose installed on your machine (https://docs.docker.com/eng
 # How to run
 1. Clone the repository with `git clone https://github.com/santilapi13/Docker_Compose_Fullstack.git`
 2. Navigate to the project directory with `cd Docker_Compose_Fullstack`
-3. Run `docker-compose up --build` to build and start the containers
-4. Open your browser and go to http://localhost:3001 to see the frontend
+3. Set environment variables in a `.env` file, in the same directory as `.env.example` file.
+   ```
+   DB_URL = 'http://couchdb_container:5984/data'
+   COUCH_USER = 'admin'
+   COUCH_PASS = 'admin'
+   ```
+5. Run `docker-compose up --build` to build and start the containers
+6. Open your browser and go to http://localhost:3001 to see the frontend
