@@ -20,4 +20,4 @@ async function loadRandomData() {
 }
 
 
-export default { loadRandomData };
+export default { loadRandomData, __dirname } ;

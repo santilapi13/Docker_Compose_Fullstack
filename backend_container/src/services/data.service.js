@@ -1,8 +1,9 @@
 import PouchDB from 'pouchdb';
+import { config } from '../config/dotenv.config.js';
 
-const DB_URL = 'http://couchdb_container:5984/data';
-const COUCH_USER = 'admin';
-const COUCH_PASS = 'admin';
+const DB_URL = config.DB_URL;
+const COUCH_USER = config.COUCH_USER;
+const COUCH_PASS = config.COUCH_PASS;
 
 const db = new PouchDB(DB_URL, {
     auto_compaction: true,
